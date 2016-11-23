@@ -28,5 +28,3 @@ id	company	last_name	first_name	email_address	job_title	business_phone	home_phon
 27	Company AA	Toh	Karen	NULL	Purchasing Manager	(123)555-0100	NULL	NULL	(123)555-0101	789 27th Street	Las Vegas	NV	99999	USA	NULL	NULL	
 28	Company BB	Raghav	Amritansh	NULL	Purchasing Manager	(123)555-0100	NULL	NULL	(123)555-0101	789 28th Street	Memphis	TN	99999	USA	NULL	NULL	
 29	Company CC	Lee	Soo Jung	NULL	Purchasing Manager	(123)555-0100	NULL	NULL	(123)555-0101	789 29th Street	Denver	CO	99999	USA	NULL	NULL	
-
-This should fail
